@@ -6,6 +6,12 @@ Take a screenshot of the page based on the provided urls
 
 这是之前学Node.js时挖的一个坑，原本的想法是从截图功能开始，增加资产收集、漏洞扫描功能。但至今没有动力将它再完善下去。
 
+# Features
+
+1. 对页面进行截图
+2. 获取到网页源码进行敏感信息检测
+3. 待增加...
+
 # Usage
 
 安装相关依赖：
