@@ -1,0 +1,27 @@
+{
+  "name": "pageye",
+  "version": "1.0.1",
+  "description": "For hack test",
+  "main": "pageye.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Threezh1",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "ejs": "^3.0.1",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^8.0.8",
+    "koa-session": "^5.13.1",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.1",
+    "mongodb": "^3.5.5",
+    "puppeteer-cluster": "^0.19.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
