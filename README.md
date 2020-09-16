@@ -2,7 +2,7 @@
 
 Take a screenshot of the page based on the provided urls
 
-根据提供的urls，对页面进行截图
+根据提供的urls，对页面进行截图并进行基础的信息收集
 
 这是之前学Node.js时挖的一个坑，原本的想法是从截图功能开始，增加资产收集、漏洞扫描功能。但至今没有动力将它再完善下去。
 
